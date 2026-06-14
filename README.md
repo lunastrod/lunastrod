@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lunastrod&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lunastrod&show_icons=true&theme=radical&hide_rank=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lunastrod&layout=compact)
