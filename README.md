@@ -20,12 +20,25 @@ Here are some ideas to get you started:
 
 ### Proyectos Destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [![DAM-general](https://img.shields.io/badge/DAM--general-blue?style=for-the-badge&logo=github)](https://github.com/lunastrod/DAM-general) | Repositorio con todas las prácticas y proyectos realizados durante el grado de Desarrollo de Aplicaciones Multiplataforma, incluyendo bases de datos, programación, gráficos en Java, entornos de desarrollo y más. |
-| [![Pub/Sub en C](https://img.shields.io/badge/Pub%2FSub-C-A8B9CC?style=for-the-badge&logo=github)](https://github.com/lunastrod/sistemas_distribuidos_2021-22/tree/main/RP4_pubsub) | Broker de mensajería publicador-suscriptor en C para la asignatura de Sistemas Distribuidos, con sockets TCP, multihilo y tres modos de reenvío (secuencial, paralelo y equitativo). |
-| [![Procesador FPGA](https://img.shields.io/badge/Procesador-FPGA_Verilog-grey?style=for-the-badge&logo=github)](https://github.com/lunastrod/Mecatronica-proyecto) | Procesador monociclo diseñado desde cero en Verilog para FPGA, con set de 15 instrucciones, ensamblador propio, módulo PWM para control de servos y comunicación por puerto serie. |
-| [![Cosmoteer Bot](https://img.shields.io/badge/Discord-Cosmoteer_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/lunastrod/cosmoteer-com) | Bot de Discord con comandos slash que analiza imágenes de naves del juego Cosmoteer, calculando centro de masa, costes y estadísticas mediante una API externa, con base de datos propia para registrar combates entre diseños. |
+<table>
+<tr><th width="200">Proyecto</th><th>Descripción</th></tr>
+<tr>
+<td><a href="https://github.com/lunastrod/DAM-general"><img src="https://img.shields.io/badge/DAM--general-blue?style=for-the-badge&logo=github" /></a></td>
+<td>Repositorio con todas las prácticas y proyectos realizados durante el grado de Desarrollo de Aplicaciones Multiplataforma, incluyendo bases de datos, programación, gráficos en Java, entornos de desarrollo y más.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lunastrod/sistemas_distribuidos_2021-22/tree/main/RP4_pubsub"><img src="https://img.shields.io/badge/Pub_Sub-A8B9CC?style=for-the-badge&logo=github" /></a></td>
+<td>Broker de mensajería publicador-suscriptor en C para la asignatura de Sistemas Distribuidos, con sockets TCP, multihilo y tres modos de reenvío (secuencial, paralelo y equitativo).</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lunastrod/Mecatronica-proyecto"><img src="https://img.shields.io/badge/Procesador_FPGA-grey?style=for-the-badge&logo=github" /></a></td>
+<td>Procesador monociclo diseñado desde cero en Verilog para FPGA, con set de 15 instrucciones, ensamblador propio, módulo PWM para control de servos y comunicación por puerto serie.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lunastrod/cosmoteer-com"><img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=github" /></a></td>
+<td>Bot de Discord con comandos slash que analiza imágenes de naves del juego Cosmoteer, calculando centro de masa, costes y estadísticas mediante una API externa, con base de datos propia para registrar combates entre diseños.</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +56,7 @@ Here are some ideas to get you started:
 
 ### Proyectos por Categoría
 
-| Descripción | Enlace |
+| Descripción | Repositorios |
 |---|---|
 | Repositorios hechos para el grado de Desarrollo de Aplicaciones Multiplataforma. | [![DAM](https://img.shields.io/badge/DAM-Desarrollo_Multiplataforma-blue?style=for-the-badge&logo=github)](https://github.com/stars/lunastrod/lists/dam) |
 | Repositorios hechos para el grado de Robótica Software. | [![Universidad](https://img.shields.io/badge/Universidad-Robótica_Software-blueviolet?style=for-the-badge&logo=github)](https://github.com/stars/lunastrod/lists/universidad) |
