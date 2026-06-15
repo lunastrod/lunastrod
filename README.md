@@ -134,3 +134,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunastrod&theme=dark&mode=weekly" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lunastrod&theme=github-compact&hide_border=true&area=true" />
+</p>
