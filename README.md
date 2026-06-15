@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td><a href="https://github.com/lunastrod/Mecatronica-proyecto"><img src="https://img.shields.io/badge/Procesador_FPGA-grey?style=for-the-badge&logo=github" /></a></td>
-<td>Procesador monociclo diseñado desde cero en Verilog para FPGA, con set de 15 instrucciones, ensamblador propio, módulo PWM para control de servos y comunicación por puerto serie.</td>
+<td>Procesador monociclo diseñado desde cero para FPGA, con set de 15 instrucciones, ensamblador propio, módulo PWM para control de servos y comunicación por puerto serie.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/lunastrod/cosmoteer-com"><img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=github" /></a></td>
