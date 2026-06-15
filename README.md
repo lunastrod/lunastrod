@@ -55,7 +55,6 @@
 | Proyectos variados en Python. | [![Python](https://img.shields.io/badge/Python-Proyectos_Personales-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/lunastrod/lists/python) |
 | Proyectos con Arduino y electrónica. | [![Arduino](https://img.shields.io/badge/Arduino-Proyectos-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/stars/lunastrod/lists/arduino) |
 | Bots desarrollados para Discord. | [![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/stars/lunastrod/lists/discord) |
-| Proyecto del globo estratosférico CosmoSat. | [![CosmoSat](https://img.shields.io/badge/CosmoSat-Globo_Estratosférico-orange?style=for-the-badge&logo=github)](https://github.com/stars/lunastrod/lists/cosmosat) |
 | Mis primeros proyectos, con los que empecé a programar. | [![Primeros proyectos](https://img.shields.io/badge/Primeros_proyectos-Destacados-lightgrey?style=for-the-badge&logo=github)](https://github.com/stars/lunastrod/lists/primeros-proyectos) |
 | Aplicaciones desarrolladas para Android. | [![Android](https://img.shields.io/badge/Android-Proyectos-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/stars/lunastrod/lists/android) |
 | Proyectos web hechos con HTML, CSS, JS y PHP. | [![Web](https://img.shields.io/badge/Web-HTML_CSS_JS_PHP-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/stars/lunastrod/lists/web) |
