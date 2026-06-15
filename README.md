@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 <td>Repositorio con todas las prácticas y proyectos realizados durante el grado de Desarrollo de Aplicaciones Multiplataforma, incluyendo bases de datos, programación, gráficos en Java, entornos de desarrollo y más.</td>
 </tr>
 <tr>
+<td><a href="https://github.com/lunastrod/proyectoIntegradorConcesionario"><img src="https://img.shields.io/badge/AutoGesti%C3%B3n-007396?style=for-the-badge&logo=github" /></a></td>
+<td>Aplicación de escritorio en Java Swing para gestionar un concesionario de vehículos, con arquitectura MVC, base de datos SQLite mediante JDBC, control de acceso por roles y tests de integración con JUnit.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/lunastrod/sistemas_distribuidos_2021-22/tree/main/RP4_pubsub"><img src="https://img.shields.io/badge/Pub_Sub-A8B9CC?style=for-the-badge&logo=github" /></a></td>
 <td>Broker de mensajería publicador-suscriptor en C para la asignatura de Sistemas Distribuidos, con sockets TCP, multihilo y tres modos de reenvío (secuencial, paralelo y equitativo).</td>
 </tr>
